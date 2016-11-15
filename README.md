@@ -182,6 +182,8 @@ At this time I have provided support for the following Home Assistant entity typ
 
 ## switch
 Widget type ***Haswitch***
+## media_player
+Widget type ***Hamediaplayer***
 ## lock
 Widget type ***Halock***
 ## devicetracker
